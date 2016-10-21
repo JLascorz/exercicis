@@ -3,7 +3,7 @@ package fonaments.models.entitats;
 
 public class Rectangle {
 //<editor-fold defaultstate="collapsed" desc="Estat: Atributs">
-    private double base;
+    private double  base;
     private double altura;
 //</editor-fold>
     

@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Application {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner  input = new Scanner(System.in);
         int calcul = 0;
         do{        
         System.out.println("Quina figura vols(1. Cuadrat, 2. Cercle, 3. Rectangle, 4. Esfera): ");

@@ -4,7 +4,7 @@ package fonaments.models.entitats;
 public class Square {
     
 //<editor-fold defaultstate="collapsed" desc="Estat: Atributs">
-        public double side;
+        public double  side;
 //</editor-fold>
         
 //<editor-fold defaultstate="collapsed" desc="Metodes">

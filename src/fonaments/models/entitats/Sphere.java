@@ -4,7 +4,7 @@ package fonaments.models.entitats;
 public class Sphere {
 //<editor-fold defaultstate="collapsed" desc="Estat: Atributs">
     private double radi;
-    private double pi;
+    private double  pi;
 //</editor-fold>
     
 //<editor-fold defaultstate="collapsed" desc="Metodes">
